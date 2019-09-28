@@ -3,13 +3,10 @@
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 ## Requirements
-* i3-wm
+* bspwm-wm
 * GNOME (3.34.x)
 * GDM (optional, but useful)
 * [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
-
-## Packages
-[![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
 ## Installation from scratch
 Using `make`:
@@ -17,16 +14,8 @@ Using `make`:
 * on the terminal go to the repo directory.
 * `sudo make install`
 
-## Contributing
-* [Guidelines](https://github.com/i3-gnome/i3-gnome/wiki/Contributing)
-
-## Troubleshooting
-* Report issues.
-* Visit our [FAQ](https://github.com/i3-gnome/i3-gnome/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3AFAQ).
-* [Questions](https://github.com/i3-gnome/i3-gnome/labels/question).
-
 ## Wiki
-Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get reference and more information about.
+Visit the [wiki](https://github.com/i3-gnome/i3-gnome/wiki) of i3-gnome, to get reference and more information about.
 * [Tips & Tricks](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks)
 
 ---
