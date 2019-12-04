@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=bspwm + GNOME
-Comment=This session logs you into i3 with GNOME session integration
+Comment=This session logs you into bspwm with GNOME session integration
 Exec=gnome-session-bspwm
 TryExec=bspwm-gnome
 Type=Application
